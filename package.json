@@ -1,0 +1,9 @@
+{
+	"name": "connect-static-assets",
+	"version": "0.0.1",
+	"dependencies": {
+		"coffee-script": "*",
+		"connect-assets": "git://github.com/vamf12/connect-assets.git",
+		"underscore": "*"
+	}
+}

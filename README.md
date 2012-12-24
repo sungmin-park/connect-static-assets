@@ -1,0 +1,2 @@
+connect-static-assets
+=====================
